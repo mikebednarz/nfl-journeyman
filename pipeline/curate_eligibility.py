@@ -67,6 +67,7 @@ def fill_from_draft_picks(candidates: list[dict]) -> int:
         pb = gsis_to_probowls.get(p["id"])
         if pb is not None:
             p["made_pro_bowl"] = pb > 0
+            p["pro_bowl_count"] = pb
             filled += 1
 
         ss = gsis_to_seasons_started.get(p["id"])
@@ -182,24 +183,15 @@ def compute_eligibility(candidates: list[dict]):
         gate1 = p["franchise_count"] >= 3
         gate2 = p["played_2000_plus"]
 
-        pb = p.get("made_pro_bowl")
-        starts = p.get("career_starts")
+        pb_count = p.get("pro_bowl_count", 0) or 0
+        starts = p.get("career_starts", 0) or 0
 
-        if pb is None and starts is None:
-            p["eligible"] = None
-            continue
-
-        gate3 = (
-            (pb is True)
-            or (starts is not None and starts >= 80)
-        )
+        gate3 = pb_count >= 5 or starts >= 100
 
         if gate1 and gate2 and gate3:
             p["eligible"] = True
-        elif gate1 and gate2 and pb is False and starts is not None and starts < 80:
-            p["eligible"] = False
         else:
-            p["eligible"] = None
+            p["eligible"] = False
 
     eligible = sum(1 for p in candidates if p["eligible"] is True)
     ineligible = sum(1 for p in candidates if p["eligible"] is False)
@@ -210,16 +202,16 @@ def compute_eligibility(candidates: list[dict]):
 def tag_difficulty(candidates: list[dict]):
     """
     Tag difficulty based on eligibility route:
-    - Pro Bowl players → easy
-    - 80+ starts but no Pro Bowl → medium
+    - 5+ Pro Bowls → easy
+    - 100+ starts (fewer than 5 Pro Bowls) → medium
     """
     for p in candidates:
         if p["eligible"] is not True:
             continue
 
-        pb = p.get("made_pro_bowl", False)
+        pb_count = p.get("pro_bowl_count", 0) or 0
 
-        if pb:
+        if pb_count >= 5:
             p["difficulty"] = "easy"
         else:
             p["difficulty"] = "medium"

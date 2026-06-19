@@ -192,9 +192,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 33,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0026625",
@@ -424,9 +425,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 21,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0033949",
@@ -1671,7 +1673,8 @@
     "career_starts": 51,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0027723",
@@ -1820,7 +1823,8 @@
     "career_starts": 66,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0033435",
@@ -2363,9 +2367,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 99,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034817",
@@ -2560,8 +2564,9 @@
     "started_playoff_game": true,
     "career_starts": 140,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0030484",
@@ -2756,8 +2761,9 @@
     "started_playoff_game": true,
     "career_starts": 124,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0030070",
@@ -2861,9 +2867,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 31,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032109",
@@ -2908,9 +2915,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 86,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032265",
@@ -3002,9 +3010,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 17,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0026008",
@@ -3492,9 +3501,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 69,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0003547",
@@ -3774,9 +3784,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 61,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0033123",
@@ -3826,8 +3837,9 @@
     "started_playoff_game": true,
     "career_starts": 120,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034587",
@@ -3958,9 +3970,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 88,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0035390",
@@ -4302,9 +4314,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 86,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031236",
@@ -4439,9 +4451,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 3,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032779",
@@ -4529,9 +4542,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 99,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0026544",
@@ -4709,9 +4723,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 48,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0035633",
@@ -4928,9 +4943,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 81,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0030148",
@@ -5284,9 +5299,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 76,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0026156",
@@ -5327,9 +5343,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 70,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0030395",
@@ -5509,7 +5526,8 @@
     "career_starts": 20,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0030094",
@@ -5640,9 +5658,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 43,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0032384",
@@ -5683,9 +5702,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 95,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034614",
@@ -5863,9 +5882,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0021099",
@@ -6180,9 +6200,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 93,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033119",
@@ -6400,8 +6420,9 @@
     "started_playoff_game": true,
     "career_starts": 121,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0019770",
@@ -6486,8 +6507,9 @@
     "started_playoff_game": false,
     "career_starts": 128,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0005755",
@@ -6712,9 +6734,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 92,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0030442",
@@ -6841,9 +6863,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 85,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033093",
@@ -7146,9 +7168,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 86,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028081",
@@ -7452,8 +7474,9 @@
     "started_playoff_game": true,
     "career_starts": 202,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034577",
@@ -7674,9 +7697,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 47,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0030488",
@@ -7804,8 +7828,9 @@
     "started_playoff_game": true,
     "career_starts": 127,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0031260",
@@ -7975,9 +8000,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 90,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028339",
@@ -8018,9 +8043,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 86,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0021096",
@@ -8104,9 +8129,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 93,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0022898",
@@ -8417,9 +8442,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 93,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034084",
@@ -8699,9 +8724,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0031585",
@@ -8832,9 +8858,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 57,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0033439",
@@ -9542,7 +9569,8 @@
     "career_starts": 166,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0028011",
@@ -10515,8 +10543,9 @@
     "started_playoff_game": true,
     "career_starts": 123,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0031105",
@@ -10773,8 +10802,9 @@
     "started_playoff_game": false,
     "career_starts": 176,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0031584",
@@ -11084,9 +11114,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 1,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0029141",
@@ -11127,9 +11157,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 27,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0025506",
@@ -11210,8 +11241,9 @@
     "started_playoff_game": true,
     "career_starts": 127,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0014071",
@@ -11248,9 +11280,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032104",
@@ -11366,8 +11399,9 @@
     "started_playoff_game": true,
     "career_starts": 136,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0032107",
@@ -11580,9 +11614,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 37,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0024298",
@@ -11738,7 +11772,8 @@
     "career_starts": 88,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0034992",
@@ -11893,8 +11928,9 @@
     "started_playoff_game": true,
     "career_starts": 122,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0027297",
@@ -12251,9 +12287,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 85,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032062",
@@ -12942,9 +12978,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 91,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0023624",
@@ -12981,9 +13017,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 11,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027861",
@@ -13020,9 +13056,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 2,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0027822",
@@ -13186,7 +13223,8 @@
     "career_starts": 188,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0032145",
@@ -13949,9 +13987,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0020422",
@@ -14027,9 +14065,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028237",
@@ -14620,9 +14658,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 25,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032677",
@@ -15049,9 +15088,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0019506",
@@ -15656,7 +15695,8 @@
     "career_starts": 175,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0033782",
@@ -15892,9 +15932,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 5,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0024297",
@@ -16017,9 +16058,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 94,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0035184",
@@ -16380,9 +16421,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0026253",
@@ -16576,8 +16618,9 @@
     "started_playoff_game": true,
     "career_starts": 127,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0014255",
@@ -16858,7 +16901,8 @@
     "career_starts": 78,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0021943",
@@ -16934,9 +16978,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 52,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0031395",
@@ -17012,9 +17057,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0026381",
@@ -17407,8 +17453,9 @@
     "started_playoff_game": true,
     "career_starts": 102,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0033875",
@@ -17446,8 +17493,9 @@
     "started_playoff_game": true,
     "career_starts": 111,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0034830",
@@ -17878,9 +17926,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0020460",
@@ -18113,8 +18162,9 @@
     "started_playoff_game": true,
     "career_starts": 129,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0027674",
@@ -18359,8 +18409,9 @@
     "started_playoff_game": true,
     "career_starts": 134,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0025697",
@@ -18436,9 +18487,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 79,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0013141",
@@ -18635,9 +18687,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 4,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0023287",
@@ -18795,9 +18848,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 27,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027796",
@@ -19233,8 +19286,9 @@
     "started_playoff_game": true,
     "career_starts": 104,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0030011",
@@ -19314,9 +19368,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 85,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031313",
@@ -19630,9 +19684,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 21,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0031636",
@@ -19748,8 +19803,9 @@
     "started_playoff_game": true,
     "career_starts": 124,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0030792",
@@ -20457,9 +20513,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 51,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0023541",
@@ -20587,8 +20644,9 @@
     "started_playoff_game": true,
     "career_starts": 137,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032234",
@@ -20626,8 +20684,9 @@
     "started_playoff_game": true,
     "career_starts": 167,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036152",
@@ -20664,9 +20723,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 7,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028171",
@@ -20742,9 +20801,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0027325",
@@ -21370,9 +21430,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 87,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031337",
@@ -21569,9 +21629,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 69,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034657",
@@ -21690,9 +21751,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 48,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0023569",
@@ -21847,8 +21909,9 @@
     "started_playoff_game": true,
     "career_starts": 122,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0032496",
@@ -21924,9 +21987,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 48,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0026618",
@@ -21968,7 +22032,7 @@
     "started_playoff_game": true,
     "career_starts": 108,
     "eligible": true,
-    "difficulty": "easy",
+    "difficulty": "medium",
     "approved": true
   },
   {
@@ -22131,9 +22195,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 94,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026249",
@@ -22209,9 +22273,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 78,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034401",
@@ -22414,7 +22479,8 @@
     "career_starts": 154,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0028292",
@@ -22494,9 +22560,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 48,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036589",
@@ -22654,9 +22721,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 92,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034367",
@@ -22733,8 +22800,9 @@
     "started_playoff_game": true,
     "career_starts": 107,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0010373",
@@ -22935,9 +23003,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 6,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0021151",
@@ -22974,9 +23043,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0013255",
@@ -23261,7 +23330,8 @@
     "career_starts": 192,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0033551",
@@ -23494,8 +23564,9 @@
     "started_playoff_game": true,
     "career_starts": 122,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0035637",
@@ -23814,8 +23885,9 @@
     "started_playoff_game": false,
     "career_starts": 192,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0034869",
@@ -23852,9 +23924,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 95,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0033526",
@@ -23981,9 +24054,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 98,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0025516",
@@ -24180,9 +24253,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 91,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0028027",
@@ -24344,9 +24418,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 84,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027785",
@@ -24469,9 +24543,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 88,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0010472",
@@ -24786,8 +24860,9 @@
     "started_playoff_game": false,
     "career_starts": 224,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0028924",
@@ -24997,8 +25072,9 @@
     "started_playoff_game": false,
     "career_starts": 208,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0014743",
@@ -25035,9 +25111,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0002185",
@@ -25160,9 +25236,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 86,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0012478",
@@ -25201,7 +25277,8 @@
     "career_starts": 208,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0028825",
@@ -25356,8 +25433,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0027114",
@@ -25398,9 +25476,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 48,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0004673",
@@ -25593,9 +25672,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0029699",
@@ -25714,9 +25794,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 98,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027695",
@@ -25950,7 +26030,8 @@
     "career_starts": 123,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0034278",
@@ -26035,8 +26116,9 @@
     "started_playoff_game": true,
     "career_starts": 107,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0004293",
@@ -26074,8 +26156,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034164",
@@ -26775,9 +26858,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 89,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032889",
@@ -26810,9 +26893,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 91,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0030228",
@@ -26845,9 +26928,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 83,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027719",
@@ -27102,9 +27185,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 67,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0027958",
@@ -27247,8 +27331,9 @@
     "started_playoff_game": true,
     "career_starts": 118,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0021214",
@@ -27387,8 +27472,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0035455",
@@ -27598,7 +27684,8 @@
     "career_starts": 147,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0038624",
@@ -27670,9 +27757,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 1,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0021175",
@@ -28172,9 +28260,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 16,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0022084",
@@ -28207,9 +28296,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 66,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0023611",
@@ -28422,8 +28512,9 @@
     "started_playoff_game": true,
     "career_starts": 103,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0026167",
@@ -28493,7 +28584,8 @@
     "career_starts": 106,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0024234",
@@ -28530,9 +28622,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 50,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0022793",
@@ -28569,9 +28662,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 34,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0015091",
@@ -29173,8 +29267,9 @@
     "started_playoff_game": true,
     "career_starts": 128,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0001825",
@@ -29242,9 +29337,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031052",
@@ -29647,9 +29742,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 21,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0020367",
@@ -30185,8 +30281,9 @@
     "started_playoff_game": false,
     "career_starts": 128,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0000727",
@@ -30503,9 +30600,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 83,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0025527",
@@ -30573,9 +30670,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 35,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0034646",
@@ -30795,9 +30893,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 2,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034419",
@@ -31017,9 +31115,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0033567",
@@ -31449,9 +31548,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 48,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0000754",
@@ -32275,8 +32375,9 @@
     "started_playoff_game": true,
     "career_starts": 127,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0030258",
@@ -32554,9 +32655,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 95,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0000112",
@@ -32908,9 +33009,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 16,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0030106",
@@ -32943,9 +33044,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 23,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034641",
@@ -32978,9 +33079,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 8,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031208",
@@ -33554,9 +33655,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0033300",
@@ -33624,9 +33726,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 74,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0030518",
@@ -34052,9 +34155,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 1,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0030572",
@@ -34157,9 +34261,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 85,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034777",
@@ -34192,9 +34296,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 58,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034371",
@@ -34298,8 +34403,9 @@
     "started_playoff_game": false,
     "career_starts": 128,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0033893",
@@ -34332,9 +34438,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 69,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0033546",
@@ -35005,9 +35112,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 86,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032138",
@@ -35112,7 +35219,8 @@
     "career_starts": 182,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0019677",
@@ -35219,9 +35327,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 90,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033258",
@@ -35295,7 +35403,8 @@
     "career_starts": 66,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0031610",
@@ -35328,9 +35437,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 62,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0029888",
@@ -35437,9 +35547,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 41,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0003739",
@@ -35472,9 +35583,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0031381",
@@ -35509,7 +35621,8 @@
     "career_starts": 183,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0019765",
@@ -35651,9 +35764,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0010105",
@@ -36002,8 +36115,9 @@
     "started_playoff_game": true,
     "career_starts": 100,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032775",
@@ -36073,7 +36187,8 @@
     "career_starts": 112,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0030155",
@@ -36176,9 +36291,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031254",
@@ -36640,8 +36755,9 @@
     "started_playoff_game": true,
     "career_starts": 104,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0024272",
@@ -36674,9 +36790,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 6,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0035707",
@@ -36710,8 +36827,9 @@
     "started_playoff_game": true,
     "career_starts": 100,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0031241",
@@ -36884,9 +37002,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 79,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0024338",
@@ -37060,8 +37179,9 @@
     "started_playoff_game": true,
     "career_starts": 100,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0024223",
@@ -37094,9 +37214,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 58,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0028411",
@@ -37208,8 +37329,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0035678",
@@ -37242,9 +37364,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 83,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028409",
@@ -37452,9 +37574,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 11,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0020385",
@@ -37487,9 +37610,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026945",
@@ -37846,8 +37969,9 @@
     "started_playoff_game": true,
     "career_starts": 152,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0023589",
@@ -37985,9 +38109,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027781",
@@ -38059,9 +38183,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 83,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033336",
@@ -38168,9 +38292,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 1,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0019697",
@@ -38888,9 +39012,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0022848",
@@ -38994,8 +39118,9 @@
     "started_playoff_game": true,
     "career_starts": 115,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0003344",
@@ -39880,9 +40005,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033883",
@@ -40164,9 +40289,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 24,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0036312",
@@ -40310,7 +40436,8 @@
     "career_starts": 162,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 8
   },
   {
     "id": "00-0036387",
@@ -40378,9 +40505,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 10,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0031503",
@@ -40413,9 +40541,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 88,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032627",
@@ -40660,7 +40789,8 @@
     "career_starts": 46,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0024442",
@@ -41052,8 +41182,9 @@
     "started_playoff_game": true,
     "career_starts": 111,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0005434",
@@ -41471,9 +41602,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031462",
@@ -41720,9 +41851,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0022591",
@@ -41831,7 +41962,8 @@
     "career_starts": 112,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0035895",
@@ -42113,9 +42245,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 79,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0018486",
@@ -42183,9 +42316,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026205",
@@ -42253,9 +42386,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033460",
@@ -42323,9 +42456,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0035693",
@@ -42394,8 +42527,9 @@
     "started_playoff_game": true,
     "career_starts": 100,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0034684",
@@ -42825,9 +42959,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 43,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0035444",
@@ -43060,8 +43195,9 @@
     "started_playoff_game": true,
     "career_starts": 152,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034420",
@@ -43164,9 +43300,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0028278",
@@ -43207,9 +43344,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 85,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0036363",
@@ -43321,8 +43458,9 @@
     "started_playoff_game": true,
     "career_starts": 107,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0029691",
@@ -43530,9 +43668,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 84,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027944",
@@ -43567,7 +43705,8 @@
     "career_starts": 124,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0021092",
@@ -43935,9 +44074,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 88,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0038581",
@@ -44188,9 +44327,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0030523",
@@ -44258,9 +44397,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 79,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0022726",
@@ -44329,8 +44469,9 @@
     "started_playoff_game": false,
     "career_starts": 160,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0033091",
@@ -44577,9 +44718,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 86,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0024264",
@@ -44752,9 +44894,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0031921",
@@ -44966,9 +45109,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 98,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034266",
@@ -45110,9 +45253,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0003292",
@@ -45146,8 +45289,9 @@
     "started_playoff_game": false,
     "career_starts": 176,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0023477",
@@ -45216,8 +45360,9 @@
     "started_playoff_game": false,
     "career_starts": 224,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0022001",
@@ -45566,8 +45711,9 @@
     "started_playoff_game": false,
     "career_starts": 176,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0034854",
@@ -46405,9 +46551,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 77,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0021170",
@@ -46479,9 +46626,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0033905",
@@ -46659,8 +46807,9 @@
     "started_playoff_game": false,
     "career_starts": 224,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0027029",
@@ -46695,7 +46844,8 @@
     "career_starts": 82,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0036371",
@@ -46833,9 +46983,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 1,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0020533",
@@ -46869,8 +47020,9 @@
     "started_playoff_game": false,
     "career_starts": 160,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0028017",
@@ -47048,8 +47200,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0023259",
@@ -47153,8 +47306,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0022405",
@@ -47367,8 +47521,9 @@
     "started_playoff_game": true,
     "career_starts": 114,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034954",
@@ -47471,9 +47626,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 72,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0017670",
@@ -47506,9 +47662,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0003230",
@@ -47542,8 +47699,9 @@
     "started_playoff_game": false,
     "career_starts": 192,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0030127",
@@ -47646,9 +47804,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 81,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032165",
@@ -47682,8 +47840,9 @@
     "started_playoff_game": true,
     "career_starts": 125,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0013080",
@@ -47860,9 +48019,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 91,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0002110",
@@ -47896,8 +48055,9 @@
     "started_playoff_game": false,
     "career_starts": 176,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0022882",
@@ -48144,9 +48304,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0026251",
@@ -48393,9 +48554,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 9,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0031788",
@@ -48545,9 +48707,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 11,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0026500",
@@ -48795,8 +48958,9 @@
     "started_playoff_game": true,
     "career_starts": 121,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0000872",
@@ -48831,7 +48995,8 @@
     "career_starts": 0,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0026986",
@@ -48864,9 +49029,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0029638",
@@ -49004,9 +49169,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 26,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0000829",
@@ -49366,9 +49531,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 20,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0035266",
@@ -49436,9 +49602,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 87,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0020245",
@@ -49471,9 +49637,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 12,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0023452",
@@ -49839,7 +50006,8 @@
     "career_starts": 0,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0036300",
@@ -50693,9 +50861,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0001760",
@@ -51549,9 +51717,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 18,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0027737",
@@ -52153,8 +52322,9 @@
     "started_playoff_game": true,
     "career_starts": 113,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0033631",
@@ -52362,9 +52532,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 88,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0016802",
@@ -52467,9 +52637,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0015980",
@@ -52646,9 +52816,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028119",
@@ -52759,9 +52929,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 69,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0031911",
@@ -52829,9 +53000,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032943",
@@ -53475,9 +53646,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034779",
@@ -53868,9 +54040,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027859",
@@ -53904,8 +54076,9 @@
     "started_playoff_game": true,
     "career_starts": 100,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0029263",
@@ -53940,7 +54113,8 @@
     "career_starts": 201,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 10
   },
   {
     "id": "00-0022421",
@@ -54118,8 +54292,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0029493",
@@ -54681,9 +54856,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0020293",
@@ -54751,9 +54926,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034810",
@@ -55004,9 +55180,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 24,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0020528",
@@ -55039,9 +55216,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 1,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0000743",
@@ -55078,9 +55256,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032759",
@@ -55157,8 +55335,9 @@
     "started_playoff_game": true,
     "career_starts": 130,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034977",
@@ -55472,8 +55651,9 @@
     "started_playoff_game": true,
     "career_starts": 172,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0000166",
@@ -55506,9 +55686,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032725",
@@ -55907,9 +56088,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031572",
@@ -56012,9 +56193,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0028090",
@@ -56090,9 +56272,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 94,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028063",
@@ -56900,8 +57082,9 @@
     "started_playoff_game": false,
     "career_starts": 192,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0014083",
@@ -57074,9 +57257,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0024061",
@@ -57508,7 +57691,8 @@
     "career_starts": 192,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0038490",
@@ -57791,8 +57975,9 @@
     "started_playoff_game": true,
     "career_starts": 181,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0035457",
@@ -58285,8 +58470,9 @@
     "started_playoff_game": false,
     "career_starts": 240,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0030096",
@@ -58356,7 +58542,8 @@
     "career_starts": 136,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 8
   },
   {
     "id": "00-0022397",
@@ -58424,9 +58611,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 16,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0026105",
@@ -58499,8 +58687,9 @@
     "started_playoff_game": false,
     "career_starts": 192,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0013422",
@@ -58985,9 +59174,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 1,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0037006",
@@ -59130,8 +59320,9 @@
     "started_playoff_game": true,
     "career_starts": 135,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0033579",
@@ -59234,9 +59425,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 66,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0025605",
@@ -59339,9 +59531,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 78,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0033891",
@@ -59374,9 +59567,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 90,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027008",
@@ -59471,9 +59664,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 5,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0024220",
@@ -59502,9 +59695,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 29,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036752",
@@ -59626,9 +59820,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031259",
@@ -59787,7 +59981,8 @@
     "career_starts": 188,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 10
   },
   {
     "id": "00-0015601",
@@ -60002,9 +60197,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 81,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033359",
@@ -60359,9 +60554,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0027726",
@@ -60453,8 +60649,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0022079",
@@ -60547,7 +60744,8 @@
     "career_starts": 208,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 9
   },
   {
     "id": "00-0027560",
@@ -60799,7 +60997,8 @@
     "career_starts": 139,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0030503",
@@ -60859,9 +61058,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 98,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0022788",
@@ -61050,8 +61250,9 @@
     "started_playoff_game": false,
     "career_starts": 160,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0030821",
@@ -61173,9 +61374,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 45,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0019475",
@@ -61553,9 +61755,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0021385",
@@ -61586,7 +61788,8 @@
     "career_starts": 4,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0022044",
@@ -61617,7 +61820,8 @@
     "career_starts": 45,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0028353",
@@ -61677,9 +61881,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028172",
@@ -61833,8 +62037,9 @@
     "started_playoff_game": true,
     "career_starts": 100,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0025475",
@@ -61987,9 +62192,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 84,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0035393",
@@ -62049,9 +62254,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031799",
@@ -62115,9 +62320,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032369",
@@ -62301,9 +62506,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034772",
@@ -62425,9 +62630,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 38,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0020697",
@@ -62766,9 +62972,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 8,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0023404",
@@ -62890,9 +63097,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 84,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034112",
@@ -63053,9 +63260,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033326",
@@ -63522,9 +63729,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 41,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0032201",
@@ -63778,9 +63986,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034387",
@@ -64217,8 +64426,9 @@
     "started_playoff_game": false,
     "career_starts": 176,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0019629",
@@ -64408,7 +64618,8 @@
     "career_starts": 218,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 10
   },
   {
     "id": "00-0000576",
@@ -65011,9 +65222,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 66,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0029822",
@@ -65232,9 +65443,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0039458",
@@ -65360,9 +65572,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 87,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0005106",
@@ -65393,7 +65605,8 @@
     "career_starts": 304,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 11
   },
   {
     "id": "00-0031489",
@@ -65744,9 +65957,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0027012",
@@ -65868,9 +66082,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 86,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026444",
@@ -66182,9 +66396,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 4,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0019302",
@@ -66337,9 +66551,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 15,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0017467",
@@ -66527,9 +66742,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 32,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0019665",
@@ -66903,9 +67119,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 86,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0029310",
@@ -67280,8 +67496,9 @@
     "started_playoff_game": true,
     "career_starts": 140,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0004901",
@@ -67341,9 +67558,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 23,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034778",
@@ -67434,9 +67652,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 62,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0022829",
@@ -67628,9 +67847,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026932",
@@ -67659,9 +67878,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0028424",
@@ -67756,9 +67976,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033840",
@@ -68036,8 +68256,9 @@
     "started_playoff_game": true,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0025622",
@@ -68128,9 +68349,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0030113",
@@ -68376,9 +68597,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0024372",
@@ -68566,9 +68788,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 70,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0026353",
@@ -68664,8 +68887,9 @@
     "started_playoff_game": false,
     "career_starts": 160,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0032355",
@@ -68756,9 +68980,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0029747",
@@ -68881,8 +69105,9 @@
     "started_playoff_game": false,
     "career_starts": 128,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0002876",
@@ -68912,8 +69137,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0024271",
@@ -69198,9 +69424,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028224",
@@ -69261,8 +69487,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0026164",
@@ -69291,9 +69518,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 23,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0034145",
@@ -69353,9 +69581,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026142",
@@ -69826,9 +70054,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0022747",
@@ -69950,9 +70178,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 85,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0003888",
@@ -70582,9 +70810,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034352",
@@ -70613,9 +70841,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 87,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034721",
@@ -70707,8 +70935,9 @@
     "started_playoff_game": false,
     "career_starts": 128,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0033725",
@@ -70865,9 +71094,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031627",
@@ -70958,9 +71187,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027603",
@@ -71245,9 +71474,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 2,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0021277",
@@ -71652,9 +71881,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 70,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034966",
@@ -71745,9 +71975,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 98,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0035045",
@@ -72148,9 +72379,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 4,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0037395",
@@ -72241,9 +72473,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 90,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0022358",
@@ -72335,8 +72567,9 @@
     "started_playoff_game": false,
     "career_starts": 176,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034273",
@@ -72489,9 +72722,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026214",
@@ -72781,8 +73014,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0034389",
@@ -72908,9 +73142,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 81,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028101",
@@ -73315,9 +73549,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 94,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027017",
@@ -73666,7 +73900,8 @@
     "career_starts": 192,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0023564",
@@ -73695,9 +73930,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 13,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0006148",
@@ -73978,9 +74214,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0005760",
@@ -74350,9 +74586,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 48,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0031076",
@@ -74443,9 +74680,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 60,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0030121",
@@ -74974,9 +75212,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 32,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0027104",
@@ -75036,9 +75275,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 67,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0026284",
@@ -75414,7 +75654,8 @@
     "career_starts": 192,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 8
   },
   {
     "id": "00-0032114",
@@ -75571,9 +75812,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0029607",
@@ -75607,8 +75849,9 @@
     "started_playoff_game": true,
     "career_starts": 209,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0020055",
@@ -75668,9 +75911,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0035300",
@@ -75796,9 +76039,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 87,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036493",
@@ -75986,9 +76230,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 64,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0029068",
@@ -76083,9 +76328,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0013418",
@@ -76176,9 +76421,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032859",
@@ -76362,9 +76607,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 26,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0032055",
@@ -76548,9 +76794,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 69,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0032972",
@@ -76614,9 +76861,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0010699",
@@ -76676,9 +76923,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 19,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0031414",
@@ -76773,9 +77021,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 74,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0036627",
@@ -77207,9 +77456,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0023894",
@@ -77238,9 +77487,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 95,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028004",
@@ -77300,9 +77549,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 97,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0019852",
@@ -77428,9 +77677,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 48,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0001759",
@@ -77521,9 +77771,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 64,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0019087",
@@ -77742,9 +77993,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0001361",
@@ -77774,8 +78025,9 @@
     "started_playoff_game": false,
     "career_starts": 192,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0035704",
@@ -77841,7 +78093,8 @@
     "career_starts": 145,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0003112",
@@ -77870,9 +78123,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033549",
@@ -78060,9 +78313,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032450",
@@ -78343,9 +78596,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027675",
@@ -78438,7 +78691,8 @@
     "career_starts": 11,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 9
   },
   {
     "id": "00-0031551",
@@ -78499,8 +78753,9 @@
     "started_playoff_game": true,
     "career_starts": 102,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0009163",
@@ -78870,9 +79125,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0020392",
@@ -78934,7 +79189,8 @@
     "career_starts": 44,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0034139",
@@ -79181,8 +79437,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0027690",
@@ -79242,9 +79499,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 70,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0030584",
@@ -79274,8 +79532,9 @@
     "started_playoff_game": true,
     "career_starts": 134,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0025552",
@@ -79335,9 +79594,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0011770",
@@ -79367,8 +79627,9 @@
     "started_playoff_game": false,
     "career_starts": 176,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0012320",
@@ -79461,7 +79722,8 @@
     "career_starts": 113,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0024535",
@@ -79525,9 +79787,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0036994",
@@ -79681,8 +79943,9 @@
     "started_playoff_game": true,
     "career_starts": 110,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0026123",
@@ -79910,8 +80173,9 @@
     "started_playoff_game": true,
     "career_starts": 122,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0030059",
@@ -79940,9 +80204,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 71,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034490",
@@ -80193,8 +80458,9 @@
     "started_playoff_game": true,
     "career_starts": 115,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0005753",
@@ -80223,9 +80489,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026291",
@@ -80378,9 +80644,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0011266",
@@ -80723,9 +80989,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0030544",
@@ -80946,7 +81213,8 @@
     "career_starts": 100,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0030052",
@@ -81316,9 +81584,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 35,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0008755",
@@ -81379,8 +81648,9 @@
     "started_playoff_game": true,
     "career_starts": 104,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0031386",
@@ -81471,9 +81741,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034337",
@@ -81564,9 +81834,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 32,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0035645",
@@ -81690,7 +81961,8 @@
     "career_starts": 59,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0023663",
@@ -81750,9 +82022,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0024013",
@@ -81849,7 +82122,8 @@
     "career_starts": 224,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0033344",
@@ -81878,9 +82152,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 11,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0011718",
@@ -82157,9 +82431,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 12,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0037004",
@@ -83696,9 +83971,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0027018",
@@ -83727,9 +84003,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 41,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0032701",
@@ -83944,9 +84221,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 14,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034960",
@@ -83975,9 +84253,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 95,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034446",
@@ -84072,9 +84350,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 17,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0028056",
@@ -84177,9 +84456,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 34,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0033948",
@@ -84488,8 +84768,9 @@
     "started_playoff_game": true,
     "career_starts": 129,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034347",
@@ -84518,9 +84799,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 87,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0003902",
@@ -84876,8 +85157,9 @@
     "started_playoff_game": true,
     "career_starts": 105,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0004624",
@@ -85007,9 +85289,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 92,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0025787",
@@ -85362,7 +85644,8 @@
     "career_starts": 128,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0024231",
@@ -85835,7 +86118,8 @@
     "career_starts": 192,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0019653",
@@ -85864,9 +86148,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0022288",
@@ -86054,9 +86338,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 48,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0031577",
@@ -86116,9 +86401,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 56,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0005180",
@@ -86403,9 +86689,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0022157",
@@ -86788,8 +87074,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0033758",
@@ -87079,8 +87366,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0023670",
@@ -87141,8 +87429,9 @@
     "started_playoff_game": false,
     "career_starts": 160,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0023066",
@@ -87330,9 +87619,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 91,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0009869",
@@ -87361,9 +87650,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 32,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0031512",
@@ -87520,9 +87810,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 66,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0023577",
@@ -87836,7 +88127,8 @@
     "career_starts": 288,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 13
   },
   {
     "id": "00-0018036",
@@ -88339,8 +88631,9 @@
     "started_playoff_game": false,
     "career_starts": 128,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0029278",
@@ -88432,8 +88725,9 @@
     "started_playoff_game": true,
     "career_starts": 183,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0036967",
@@ -88653,8 +88947,9 @@
     "started_playoff_game": false,
     "career_starts": 176,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0022849",
@@ -88716,7 +89011,8 @@
     "career_starts": 16,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0025427",
@@ -89315,9 +89611,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0016972",
@@ -89626,8 +89922,9 @@
     "started_playoff_game": false,
     "career_starts": 192,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036258",
@@ -89656,9 +89953,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 81,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0029104",
@@ -89753,9 +90051,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 31,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0029510",
@@ -90385,9 +90684,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0029143",
@@ -90575,9 +90875,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 83,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032087",
@@ -90831,9 +91131,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 78,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0020139",
@@ -91057,8 +91358,9 @@
     "started_playoff_game": true,
     "career_starts": 105,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0019695",
@@ -91089,7 +91391,8 @@
     "career_starts": 144,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0033560",
@@ -91149,9 +91452,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0021140",
@@ -91186,7 +91489,8 @@
     "career_starts": 78,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 9
   },
   {
     "id": "00-0028067",
@@ -91215,9 +91519,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 61,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0029876",
@@ -91279,7 +91584,8 @@
     "career_starts": 256,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 12
   },
   {
     "id": "00-0022722",
@@ -91587,9 +91893,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033770",
@@ -91649,9 +91955,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034677",
@@ -91804,9 +92110,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028495",
@@ -92618,9 +92924,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033048",
@@ -92779,7 +93085,8 @@
     "career_starts": 192,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0002312",
@@ -92878,9 +93185,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0010941",
@@ -92940,9 +93247,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026149",
@@ -93126,9 +93433,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 4,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0006398",
@@ -93343,9 +93651,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0017127",
@@ -93568,9 +93876,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0029708",
@@ -94038,8 +94346,9 @@
     "started_playoff_game": true,
     "career_starts": 169,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0006843",
@@ -94069,8 +94378,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0019503",
@@ -94347,9 +94657,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0035334",
@@ -94442,7 +94752,8 @@
     "career_starts": 31,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0022697",
@@ -94597,7 +94908,8 @@
     "career_starts": 178,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 9
   },
   {
     "id": "00-0035099",
@@ -94750,9 +95062,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0037431",
@@ -94813,8 +95125,9 @@
     "started_playoff_game": true,
     "career_starts": 170,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0023513",
@@ -94843,9 +95156,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0019485",
@@ -94998,9 +95311,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0020490",
@@ -95033,9 +95347,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 64,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034687",
@@ -95507,8 +95822,9 @@
     "started_playoff_game": true,
     "career_starts": 109,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0033592",
@@ -95537,9 +95853,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 13,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033277",
@@ -95631,8 +95947,9 @@
     "started_playoff_game": true,
     "career_starts": 117,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0016691",
@@ -95661,9 +95978,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0020382",
@@ -95693,8 +96010,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0027608",
@@ -95723,9 +96041,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 5,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032955",
@@ -95785,9 +96103,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0036269",
@@ -95849,7 +96167,8 @@
     "career_starts": 176,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 6
   },
   {
     "id": "00-0029886",
@@ -95909,9 +96228,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 18,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0025393",
@@ -95940,9 +96260,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 24,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036318",
@@ -96037,9 +96358,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 97,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027657",
@@ -96231,9 +96552,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0021907",
@@ -96295,7 +96616,8 @@
     "career_starts": 140,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0002846",
@@ -96325,8 +96647,9 @@
     "started_playoff_game": false,
     "career_starts": 128,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0021246",
@@ -96457,8 +96780,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0021556",
@@ -96584,9 +96908,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0020025",
@@ -96775,8 +97100,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0021612",
@@ -97089,8 +97415,9 @@
     "started_playoff_game": true,
     "career_starts": 173,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0029799",
@@ -97244,8 +97571,9 @@
     "started_playoff_game": false,
     "career_starts": 160,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0037245",
@@ -97689,9 +98017,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 58,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036724",
@@ -98030,9 +98359,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0004768",
@@ -98623,9 +98952,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 52,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0029296",
@@ -98748,8 +99078,9 @@
     "started_playoff_game": false,
     "career_starts": 128,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0031581",
@@ -98817,9 +99148,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 47,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0023880",
@@ -99015,9 +99347,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 98,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0030460",
@@ -99271,9 +99603,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 83,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0025399",
@@ -99308,7 +99640,8 @@
     "career_starts": 53,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0028010",
@@ -99466,8 +99799,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0029293",
@@ -99752,9 +100086,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031315",
@@ -100039,9 +100373,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027045",
@@ -100446,9 +100780,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 30,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036284",
@@ -100570,9 +100905,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 76,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0022217",
@@ -100857,9 +101193,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 49,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0023600",
@@ -101078,9 +101415,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0031722",
@@ -101233,9 +101571,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0020383",
@@ -101357,9 +101695,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 91,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0022162",
@@ -101636,9 +101975,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 93,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0032676",
@@ -102071,8 +102411,9 @@
     "started_playoff_game": false,
     "career_starts": 160,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0016990",
@@ -102198,9 +102539,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 45,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0021394",
@@ -102261,8 +102603,9 @@
     "started_playoff_game": true,
     "career_starts": 149,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0027746",
@@ -102357,9 +102700,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 62,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0013471",
@@ -102551,9 +102895,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 83,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026928",
@@ -102737,9 +103081,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 22,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0034097",
@@ -102803,9 +103148,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027652",
@@ -102897,8 +103242,9 @@
     "started_playoff_game": false,
     "career_starts": 176,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0035383",
@@ -103206,9 +103552,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036399",
@@ -104020,9 +104367,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 89,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0037031",
@@ -104113,9 +104460,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 88,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0036287",
@@ -104455,8 +104802,9 @@
     "started_playoff_game": true,
     "career_starts": 109,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0031914",
@@ -104579,8 +104927,9 @@
     "started_playoff_game": true,
     "career_starts": 129,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0027984",
@@ -104733,9 +105082,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 40,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0020728",
@@ -104964,7 +105314,8 @@
     "career_starts": 172,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 8
   },
   {
     "id": "00-0027033",
@@ -105055,9 +105406,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 21,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0035022",
@@ -105625,9 +105977,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 89,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0027562",
@@ -105754,8 +106106,9 @@
     "started_playoff_game": true,
     "career_starts": 136,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0027106",
@@ -105854,9 +106207,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 98,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0021512",
@@ -105978,9 +106332,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0016635",
@@ -106227,8 +106581,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0032197",
@@ -106319,9 +106674,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 31,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0034743",
@@ -106572,8 +106928,9 @@
     "started_playoff_game": false,
     "career_starts": 192,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0011186",
@@ -106850,9 +107207,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 89,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0022810",
@@ -107379,7 +107737,8 @@
     "career_starts": 121,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0034286",
@@ -107470,9 +107829,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 93,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0021900",
@@ -107532,9 +107891,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0017915",
@@ -107563,9 +107922,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0012578",
@@ -107788,9 +108148,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0023252",
@@ -107912,9 +108272,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 27,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0006459",
@@ -108160,9 +108521,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0016061",
@@ -108222,9 +108583,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031006",
@@ -108315,9 +108676,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0029129",
@@ -108409,8 +108770,9 @@
     "started_playoff_game": true,
     "career_starts": 142,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0033957",
@@ -108537,8 +108899,9 @@
     "started_playoff_game": true,
     "career_starts": 141,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0012732",
@@ -108668,9 +109031,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0012909",
@@ -108792,9 +109155,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0028445",
@@ -108823,9 +109186,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 82,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0015761",
@@ -108854,9 +109217,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 0,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0036029",
@@ -109227,8 +109590,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0029262",
@@ -110133,9 +110497,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0037077",
@@ -110761,9 +111126,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032245",
@@ -111654,8 +112019,9 @@
     "started_playoff_game": false,
     "career_starts": 160,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0036645",
@@ -112246,9 +112612,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0030825",
@@ -112432,9 +112799,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0020466",
@@ -112465,7 +112832,8 @@
     "career_starts": 176,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0026364",
@@ -112587,9 +112955,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 16,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0022736",
@@ -112618,9 +112987,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 12,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0034736",
@@ -112804,9 +113174,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 66,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0036167",
@@ -113370,9 +113741,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0032445",
@@ -113529,9 +113900,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 67,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0031375",
@@ -113624,7 +113996,8 @@
     "career_starts": 96,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 7
   },
   {
     "id": "00-0031793",
@@ -113747,8 +114120,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0005044",
@@ -113809,8 +114183,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0009219",
@@ -114065,8 +114440,9 @@
     "started_playoff_game": true,
     "career_starts": 109,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0036908",
@@ -114727,9 +115103,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 16,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0022539",
@@ -114851,9 +115228,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0026515",
@@ -115332,9 +115709,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0032540",
@@ -115580,9 +115958,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 64,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0009305",
@@ -115739,9 +116118,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": true,
     "career_starts": 85,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0036885",
@@ -115806,8 +116185,9 @@
     "started_playoff_game": true,
     "career_starts": 109,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0034765",
@@ -115903,8 +116283,9 @@
     "started_playoff_game": false,
     "career_starts": 112,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0033292",
@@ -116124,8 +116505,9 @@
     "started_playoff_game": false,
     "career_starts": 144,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 4
   },
   {
     "id": "00-0031000",
@@ -116375,9 +116757,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0031531",
@@ -116540,7 +116922,8 @@
     "career_starts": 208,
     "eligible": true,
     "difficulty": "easy",
-    "approved": true
+    "approved": true,
+    "pro_bowl_count": 5
   },
   {
     "id": "00-0018072",
@@ -116976,9 +117359,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 96,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0034270",
@@ -117101,8 +117484,9 @@
     "started_playoff_game": true,
     "career_starts": 169,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0008202",
@@ -117631,9 +118015,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 75,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0032758",
@@ -117724,9 +118109,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 65,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0028605",
@@ -117984,9 +118370,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": true,
     "career_starts": 67,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 2
   },
   {
     "id": "00-0013699",
@@ -118139,9 +118526,9 @@
     "made_pro_bowl": false,
     "started_playoff_game": false,
     "career_starts": 80,
-    "eligible": true,
-    "difficulty": "medium",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0005736",
@@ -118992,9 +119379,10 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 16,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false,
+    "pro_bowl_count": 1
   },
   {
     "id": "00-0035252",
@@ -119148,8 +119536,9 @@
     "started_playoff_game": true,
     "career_starts": 164,
     "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "difficulty": "medium",
+    "approved": true,
+    "pro_bowl_count": 3
   },
   {
     "id": "00-0033251",
@@ -119209,9 +119598,9 @@
     "made_pro_bowl": true,
     "started_playoff_game": false,
     "career_starts": 2,
-    "eligible": true,
-    "difficulty": "easy",
-    "approved": true
+    "eligible": false,
+    "difficulty": null,
+    "approved": false
   },
   {
     "id": "00-0033196",
