@@ -183,22 +183,20 @@ def compute_eligibility(candidates: list[dict]):
         gate2 = p["played_2000_plus"]
 
         pb = p.get("made_pro_bowl")
-        playoff = p.get("started_playoff_game")
         starts = p.get("career_starts")
 
-        if pb is None and playoff is None and starts is None:
+        if pb is None and starts is None:
             p["eligible"] = None
             continue
 
         gate3 = (
             (pb is True)
-            or (playoff is True)
-            or (starts is not None and starts >= 30)
+            or (starts is not None and starts >= 80)
         )
 
         if gate1 and gate2 and gate3:
             p["eligible"] = True
-        elif gate1 and gate2 and pb is False and playoff is False and starts is not None and starts < 30:
+        elif gate1 and gate2 and pb is False and starts is not None and starts < 80:
             p["eligible"] = False
         else:
             p["eligible"] = None
@@ -212,24 +210,19 @@ def compute_eligibility(candidates: list[dict]):
 def tag_difficulty(candidates: list[dict]):
     """
     Tag difficulty based on eligibility route:
-    - Playoff-starter-only (no Pro Bowl, < 30 starts) → hard
     - Pro Bowl players → easy
-    - 30+ starts but no Pro Bowl → medium
+    - 80+ starts but no Pro Bowl → medium
     """
     for p in candidates:
         if p["eligible"] is not True:
             continue
 
         pb = p.get("made_pro_bowl", False)
-        playoff = p.get("started_playoff_game", False)
-        starts = p.get("career_starts", 0) or 0
 
         if pb:
             p["difficulty"] = "easy"
-        elif starts >= 30:
+        else:
             p["difficulty"] = "medium"
-        elif playoff:
-            p["difficulty"] = "hard"
 
 
 def export_curation_csv(candidates: list[dict]):

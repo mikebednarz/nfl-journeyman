@@ -1,8 +1,9 @@
 """
 NFL Journeyman — Phase 3 Daily Scheduler
 
-Maps approved players to calendar dates. Random ordering for v1;
-difficulty-based scheduling deferred to a later version.
+Maps dates to randomly selected approved players.
+Each day's player is chosen via a date-seeded RNG so the result is
+deterministic per date but players can repeat across days.
 
 Outputs data/daily_puzzles.json: { "YYYY-MM-DD": player_id, ... }
 """
@@ -17,7 +18,8 @@ APPROVED_PATH = os.path.join(DATA_DIR, "approved_players.json")
 OUTPUT_PATH = os.path.join(DATA_DIR, "daily_puzzles.json")
 
 START_DATE = date(2025, 7, 1)
-SEED = 42
+END_DATE = date(2030, 1, 1)
+BASE_SEED = 42
 
 
 def main():
@@ -27,24 +29,20 @@ def main():
     print(f"Loaded {len(players)} approved players")
 
     player_ids = [p["id"] for p in players]
-    rng = random.Random(SEED)
-    rng.shuffle(player_ids)
 
     schedule = {}
     current_date = START_DATE
-    for pid in player_ids:
-        schedule[current_date.isoformat()] = pid
+    while current_date < END_DATE:
+        rng = random.Random(f"{BASE_SEED}-{current_date.isoformat()}")
+        schedule[current_date.isoformat()] = rng.choice(player_ids)
         current_date += timedelta(days=1)
 
-    end_date = current_date - timedelta(days=1)
-    print(f"Scheduled {len(schedule)} puzzles: {START_DATE} to {end_date}")
-    print(f"Coverage: {(end_date - START_DATE).days + 1} days (~{len(schedule) // 365} years)")
+    print(f"Scheduled {len(schedule)} days: {START_DATE} to {END_DATE - timedelta(days=1)}")
 
     with open(OUTPUT_PATH, "w") as f:
         json.dump(schedule, f, indent=2)
     print(f"Wrote {OUTPUT_PATH}")
 
-    # Build a lookup for spot-checking
     id_to_name = {p["id"]: p["full_name"] for p in players}
 
     print("\n--- First 10 days ---")
@@ -62,6 +60,11 @@ def main():
             print(f"  {d}: {id_to_name.get(pid, pid)}")
         else:
             print(f"  {d}: (no puzzle scheduled)")
+
+    # Check for repeats in first 30 days
+    first_30 = list(schedule.values())[:30]
+    unique = len(set(first_30))
+    print(f"\nFirst 30 days: {unique} unique players (of 30)")
 
 
 if __name__ == "__main__":

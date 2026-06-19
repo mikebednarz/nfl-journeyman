@@ -1646,6 +1646,12 @@
     "team": "NYG"
   },
   {
+    "id": "ALF253986",
+    "name": "Damien Alford",
+    "position": "WR",
+    "team": "NO"
+  },
+  {
     "id": "00-0019677",
     "name": "Darnell Alford",
     "position": "OT",
@@ -4975,7 +4981,7 @@
     "id": "00-0039262",
     "name": "Gottlieb Ayedze",
     "position": "OT",
-    "team": "LV"
+    "team": "MIA"
   },
   {
     "id": "00-0027977",
@@ -14912,12 +14918,6 @@
     "name": "Larry Brinson",
     "position": "RB",
     "team": "SEA"
-  },
-  {
-    "id": "BRI484082",
-    "name": "Romello Brinson",
-    "position": "WR",
-    "team": "DAL"
   },
   {
     "id": "00-0040016",
@@ -28354,6 +28354,12 @@
     "name": "Barney Cotton",
     "position": "G",
     "team": "LA"
+  },
+  {
+    "id": "COT233271",
+    "name": "Blake Cotton",
+    "position": "DB",
+    "team": "DEN"
   },
   {
     "id": "COT302028",
@@ -48350,7 +48356,7 @@
     "id": "00-0037225",
     "name": "Chris Glaser",
     "position": "G",
-    "team": "CHI"
+    "team": "DAL"
   },
   {
     "id": "GLA339777",
@@ -56710,12 +56716,6 @@
     "team": "SF"
   },
   {
-    "id": "HAR767547",
-    "name": "Ahmari Harvey",
-    "position": "CB",
-    "team": "DEN"
-  },
-  {
     "id": "00-0027198",
     "name": "Brandyn Harvey",
     "position": "WR",
@@ -57412,7 +57412,7 @@
     "id": "00-0039611",
     "name": "Matthew Hayball",
     "position": "P",
-    "team": "NO"
+    "team": "ATL"
   },
   {
     "id": "00-0035815",
@@ -61917,7 +61917,7 @@
     "id": "00-0040101",
     "name": "Reid Holskey",
     "position": "OT",
-    "team": "NYG"
+    "team": "DEN"
   },
   {
     "id": "HOL706572",
@@ -75382,6 +75382,12 @@
     "name": "Isaac Keys",
     "position": "LB",
     "team": "ARI"
+  },
+  {
+    "id": "00-0039474",
+    "name": "Lawrence Keys",
+    "position": "WR",
+    "team": "DET"
   },
   {
     "id": "KEY646009",
@@ -93204,7 +93210,7 @@
     "id": "00-0036255",
     "name": "Denzel Mims",
     "position": "WR",
-    "team": "PIT"
+    "team": "DAL"
   },
   {
     "id": "00-0038678",
@@ -126126,7 +126132,7 @@
     "id": "00-0038624",
     "name": "Ameer Speed",
     "position": "DB",
-    "team": "HOU"
+    "team": "DAL"
   },
   {
     "id": "00-0034987",
@@ -143118,7 +143124,7 @@
     "id": "00-0039466",
     "name": "Ian Wheeler",
     "position": "RB",
-    "team": "NO"
+    "team": "BUF"
   },
   {
     "id": "00-0017490",
