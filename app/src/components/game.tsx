@@ -170,7 +170,7 @@ export function Game() {
         <div className="flex items-center justify-center gap-1 text-sm">
           <button
             onClick={backToDaily}
-            className={`px-3 py-1 rounded-md transition-colors ${
+            className={`px-3 py-1 rounded-md transition-colors cursor-pointer ${
               mode === "daily"
                 ? "bg-primary text-primary-foreground"
                 : "text-muted-foreground hover:text-foreground"
@@ -180,7 +180,7 @@ export function Game() {
           </button>
           <button
             onClick={startPractice}
-            className={`px-3 py-1 rounded-md transition-colors ${
+            className={`px-3 py-1 rounded-md transition-colors cursor-pointer ${
               mode === "practice"
                 ? "bg-primary text-primary-foreground"
                 : "text-muted-foreground hover:text-foreground"
@@ -268,9 +268,9 @@ export function Game() {
           {mode === "practice" && (
             <button
               onClick={startPractice}
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+              className="text-sm text-muted-foreground hover:text-foreground transition-colors cursor-pointer"
             >
-              Skip — New Player
+              Skip - New Player
             </button>
           )}
         </>
