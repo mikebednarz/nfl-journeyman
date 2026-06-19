@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Journeyman",
-  description: "A daily NFL guessing game — identify the mystery player from their franchise path.",
+  description: "A daily NFL guessing game. Identify the mystery player from their franchise path.",
 };
 
 export default function RootLayout({

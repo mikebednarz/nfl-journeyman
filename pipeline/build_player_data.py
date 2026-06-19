@@ -99,8 +99,9 @@ def build_player_team_seasons(weekly_df: pd.DataFrame, seasonal_df: pd.DataFrame
     was active (ACT status) on the team. first_week tracks when they joined
     each team within a season for correct mid-season trade ordering.
     """
-    # Weekly rosters (2002+): filter to ACT status rows, track earliest week per team
-    weekly_active = weekly_df[weekly_df["status"] == "ACT"].copy()
+    # Weekly rosters (2002+): include ACT + RES (reserve players sometimes played),
+    # exclude DEV (practice squad) and CUT
+    weekly_active = weekly_df[weekly_df["status"].isin(["ACT", "RES", "INA"])].copy()
     weekly_active["canonical_team"] = weekly_active["team"].apply(normalize_team)
     weekly_pts = (
         weekly_active.groupby(["player_id", "canonical_team", "season"])
