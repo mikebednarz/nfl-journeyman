@@ -51,16 +51,20 @@ def fill_from_draft_picks(candidates: list[dict]) -> int:
 
     gsis_to_probowls = {}
     gsis_to_seasons_started = {}
+    gsis_to_draft_round = {}
     for _, row in drafts.iterrows():
         gsis = row.get("gsis_id")
         if not gsis or pd.isna(gsis):
             continue
         pb = row.get("probowls")
         ss = row.get("seasons_started")
+        rd = row.get("round")
         if pb and not pd.isna(pb):
             gsis_to_probowls[gsis] = int(pb)
         if ss and not pd.isna(ss):
             gsis_to_seasons_started[gsis] = int(ss)
+        if rd and not pd.isna(rd):
+            gsis_to_draft_round[gsis] = int(rd)
 
     filled = 0
     for p in candidates:
@@ -69,6 +73,8 @@ def fill_from_draft_picks(candidates: list[dict]) -> int:
             p["made_pro_bowl"] = pb > 0
             p["pro_bowl_count"] = pb
             filled += 1
+
+        p["draft_round"] = gsis_to_draft_round.get(p["id"])
 
         ss = gsis_to_seasons_started.get(p["id"])
         if ss is not None:
@@ -184,9 +190,9 @@ def compute_eligibility(candidates: list[dict]):
         gate2 = p["played_2000_plus"]
 
         pb_count = p.get("pro_bowl_count", 0) or 0
-        starts = p.get("career_starts", 0) or 0
+        draft_rd = p.get("draft_round") or 99
 
-        gate3 = pb_count >= 5 or starts >= 100
+        gate3 = pb_count >= 1 or draft_rd <= 1
 
         if gate1 and gate2 and gate3:
             p["eligible"] = True
@@ -202,8 +208,8 @@ def compute_eligibility(candidates: list[dict]):
 def tag_difficulty(candidates: list[dict]):
     """
     Tag difficulty based on eligibility route:
-    - 5+ Pro Bowls → easy
-    - 100+ starts (fewer than 5 Pro Bowls) → medium
+    - Pro Bowl player → easy
+    - 1st round pick (no Pro Bowl) → medium
     """
     for p in candidates:
         if p["eligible"] is not True:
@@ -211,7 +217,7 @@ def tag_difficulty(candidates: list[dict]):
 
         pb_count = p.get("pro_bowl_count", 0) or 0
 
-        if pb_count >= 5:
+        if pb_count >= 1:
             p["difficulty"] = "easy"
         else:
             p["difficulty"] = "medium"
