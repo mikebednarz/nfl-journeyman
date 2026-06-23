@@ -1,72 +1,47 @@
 import type { HintType } from "./types";
 
-interface SolveEvent {
-  date: string;
+interface DailyResult {
   playerId: string;
   guessCount: number;
   hintsUsed: HintType[];
+  gaveUp: boolean;
   solvedAt: string;
 }
 
-const STORAGE_KEY = "journeyman_analytics";
+const DAILY_KEY_PREFIX = "journeyman_daily_";
 
-function getHistory(): SolveEvent[] {
-  if (typeof window === "undefined") return [];
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    return raw ? JSON.parse(raw) : [];
-  } catch {
-    return [];
-  }
+function dailyKey(date: string): string {
+  return `${DAILY_KEY_PREFIX}${date}`;
 }
 
-export function logSolve(
+export function saveDailyResult(
   date: string,
   playerId: string,
   guessCount: number,
-  hintsUsed: Set<HintType>
+  hintsUsed: Set<HintType>,
+  gaveUp: boolean
 ) {
-  const event: SolveEvent = {
-    date,
+  const result: DailyResult = {
     playerId,
     guessCount,
     hintsUsed: Array.from(hintsUsed),
+    gaveUp,
     solvedAt: new Date().toISOString(),
   };
 
-  const history = getHistory();
-  if (!history.some((e) => e.date === date)) {
-    history.push(event);
-    try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(history));
-    } catch {
-      // storage full or unavailable
-    }
+  try {
+    localStorage.setItem(dailyKey(date), JSON.stringify(result));
+  } catch {
+    // storage full or unavailable
   }
-
-  console.log(
-    `[Journeyman] Solved ${date}: ${guessCount} guesses, ${hintsUsed.size} hints`
-  );
 }
 
-export function isDailyCompleted(date: string): boolean {
-  return getHistory().some((e) => e.date === date);
-}
-
-export function getDailyResult(date: string): SolveEvent | null {
-  return getHistory().find((e) => e.date === date) ?? null;
-}
-
-export function getStats() {
-  const history = getHistory();
-  if (history.length === 0) return null;
-
-  const totalGuesses = history.reduce((sum, e) => sum + e.guessCount, 0);
-  const totalHints = history.reduce((sum, e) => sum + e.hintsUsed.length, 0);
-
-  return {
-    gamesPlayed: history.length,
-    avgGuesses: +(totalGuesses / history.length).toFixed(1),
-    avgHints: +(totalHints / history.length).toFixed(1),
-  };
+export function getDailyResult(date: string): DailyResult | null {
+  if (typeof window === "undefined") return null;
+  try {
+    const raw = localStorage.getItem(dailyKey(date));
+    return raw ? JSON.parse(raw) : null;
+  } catch {
+    return null;
+  }
 }

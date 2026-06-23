@@ -7,7 +7,7 @@ import {
   getAutocomplete,
   getRandomPlayer,
 } from "@/lib/game-data";
-import { logSolve, getDailyResult } from "@/lib/analytics";
+import { saveDailyResult, getDailyResult } from "@/lib/analytics";
 import { FranchisePath } from "./franchise-path";
 import { HintPanel } from "./hint-panel";
 import { PlayerSearch } from "./player-search";
@@ -52,6 +52,7 @@ export function Game() {
               hintsUsed: result.hintsUsed.length,
             });
             setSolved(true);
+            setGaveUp(result.gaveUp);
           }
         }
         setAutocomplete(auto);
@@ -96,6 +97,7 @@ export function Game() {
           hintsUsed: result.hintsUsed.length,
         });
         setSolved(true);
+        setGaveUp(result.gaveUp);
       }
     }
     setLoading(false);
@@ -109,7 +111,7 @@ export function Game() {
     if (entry.id === player.id) {
       setSolved(true);
       if (mode === "daily") {
-        logSolve(date, player.id, guesses.length + 1, revealedHints);
+        saveDailyResult(date, player.id, guesses.length + 1, revealedHints, false);
         setDailyAlreadySolved(true);
         setDailyResult({
           guessCount: guesses.length + 1,
@@ -127,6 +129,14 @@ export function Game() {
     if (!player) return;
     setGaveUp(true);
     setSolved(true);
+    if (mode === "daily") {
+      saveDailyResult(date, player.id, guesses.length, revealedHints, true);
+      setDailyAlreadySolved(true);
+      setDailyResult({
+        guessCount: guesses.length,
+        hintsUsed: revealedHints.size,
+      });
+    }
   }
 
   if (loading) {
@@ -199,6 +209,7 @@ export function Game() {
           <WinState
             player={player}
             guessCount={dailyResult.guessCount}
+            gaveUp={gaveUp}
             hintsUsed={dailyResult.hintsUsed}
           />
           <button
